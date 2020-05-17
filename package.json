@@ -1,0 +1,25 @@
+{
+  "name": "pinyin-data",
+  "version": "1.0.0",
+  "description": "带音调拼音, 多音字词表等数据",
+  "main": "入口.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/program-in-chinese/npm-pinyin-data.git"
+  },
+  "author": "nobodxbodon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/program-in-chinese/npm-pinyin-data/issues"
+  },
+  "homepage": "https://github.com/program-in-chinese/npm-pinyin-data#readme",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  }
+}
